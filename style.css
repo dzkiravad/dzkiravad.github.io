@@ -9,7 +9,7 @@ body {
 header {
     width: 100%;
     height: 300px;
-    background-image: url(p17-1.jpg);
+    background-image: url(img/p17-1.jpg);
     background-attachment: fixed;
     background-repeat: repeat;
 }
@@ -37,12 +37,12 @@ header {
 
 @font-face {
     font-family: 'MY_Font';
-    src: url('17891.otf');
+    src: url('img/17891.otf');
 }
 
 @font-face {
     font-family: 'Comic';
-    src: url('2006.ttf');
+    src: url('img/2006.ttf');
 }
 
 .li_head {
@@ -105,16 +105,16 @@ header {
 
 @keyframes images_key {
     0%, 100% {
-        background-image: url(images.jpg);
+        background-image: url(img/images.jpg);
     }
     25% {
-        background-image: url(Kiiminki-Finland-trees-river-beautiful-nature-landscape_iphone_320x480.jpg);
+        background-image: url(img/Kiiminki-Finland-trees-river-beautiful-nature-landscape_iphone_320x480.jpg);
     }
     50% {
-        background-image: url(8zCJgAa1qGM.jpg);
+        background-image: url(img/8zCJgAa1qGM.jpg);
     }
     75% {
-        background-image: url(hhhh.jpg);
+        background-image: url(img/hhhh.jpg);
     }
 }
 
